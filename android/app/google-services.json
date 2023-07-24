@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132364265812",
+    "project_id": "booking-car-app-flutter",
+    "storage_bucket": "booking-car-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132364265812:android:5542f77d56551f273640c1",
+        "android_client_info": {
+          "package_name": "com.example.booking_car_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132364265812-sp7ogf9i25p8k31jtdosghb84ujinkdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booking_car_app_flutter",
+            "certificate_hash": "7799d7b77bc69ca827cd8b9ea516022059ac0109"
+          }
+        },
+        {
+          "client_id": "132364265812-rc27trud62pgv14qiel244jrs0pbf3ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthU429hmcDQ0I8QhGouKWLs2__g4ujRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132364265812-rc27trud62pgv14qiel244jrs0pbf3ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
